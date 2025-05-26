@@ -37,7 +37,7 @@ def findEmployeeSalary(df, name)
 
 
 def main():
-    dataset_address = "C:\\Users\\Sharuyan Arumugam\\OneDrive\\Desktop\\Personal Projects\\Py_DS_ML_Bootcamp-master\\Salaries.csv"
+    dataset_address = "https://raw.githubusercontent.com/sh4ruyan/learningPandas/refs/heads/main/Salaries.csv"
     sal = pd.read_csv(dataset_address, low_memory=False)
     #Q1. Find the highest overtime pay 
 
