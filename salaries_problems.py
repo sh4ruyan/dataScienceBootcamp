@@ -47,8 +47,6 @@ def main():
     #you may get an answer that doesn't match up (there is also a lowercase Joseph Driscoll).
     #print(findJobTitle(sal, "JOSEPH DRISCOLL"))
 
-    #Q3. How much does JOSEPH DRISCOLL make(including benefits)?
-
 
 
 main()
